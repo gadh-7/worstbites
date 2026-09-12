@@ -135,4 +135,10 @@ The Worstbites ranking dashboard displays restaurants ranked by their Worstbites
 # Diagrams
 <img width="1672" height="941" alt="4b6b5ed1-9a4b-4bce-a76d-9ec6b0189270" src="https://github.com/user-attachments/assets/301f7dfc-bff6-4090-a9d6-95f4e61289d8" />
 
+
+# Additional Demos
+``` bash
+worstbites-195n7fo5j-umm6.vercel.app
+```
+
 > **Why find the best restaurant when you can find the worst one?**
