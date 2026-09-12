@@ -21,7 +21,7 @@ But what about the restaurants that serve suspicious-looking food, have question
 
 **Nobody was solving this extremely important problem.**
 
-### The Solution (that nobody asked for)
+### The Solution
 
 Worstbites flips the traditional food-discovery experience upside down.
 
