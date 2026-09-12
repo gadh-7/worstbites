@@ -1,4 +1,6 @@
-# Worstbites 🎯
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/9785281d-4e1b-4910-b5ce-3f244a7fd76e" />
+
+# Worstbites 
 
 ## Basic Details
 
@@ -140,5 +142,10 @@ The Worstbites ranking dashboard displays restaurants ranked by their Worstbites
 ``` bash
 worstbites-195n7fo5j-umm6.vercel.app
 ```
+## Team Contributions
+
+* **Gadh Ben David:** Frontend design, website pages, navigation, and user interface.
+
+* **Alif Al sayed:** Restaurant data, scoring system, search/ranking, and restaurant analysis.
 
 > **Why find the best restaurant when you can find the worst one?**
